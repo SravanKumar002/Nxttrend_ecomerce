@@ -16,11 +16,22 @@ nnrnxttrendz.ccbp.tech
 
 - User Credentials:
 Prime User:
+
+
+
 username: rahul
+
+
 password: rahul@2021
 
 Non-Prime User:
+
+
 username: raja
+
+
 password: raja@2021
+
+
 
 - Website URL =  https://nnrnxttrendz.ccbp.tech/
